@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    test
+    <a href="logout.php">logout</a>
 </body>
 </html>
